@@ -1,0 +1,46 @@
+body {
+  background-color: azure;
+  padding: 20px 40px;
+}
+
+div > p {
+  background-color: darkgrey;
+}
+
+h1 {
+  color: blue;
+}
+
+.selector-class {
+  color: aqua;
+}
+
+#selector-id {
+  color: blueviolet;
+}
+
+a[href="#"] {
+  color: brown;
+}
+
+.selector-class-teg {
+  color: chartreuse;
+}
+
+.selector-class-teg2 > p{
+  color: chocolate;
+}
+
+.class.class2 {
+  color: cornflowerblue;
+}
+
+.combo .combo2 {
+  color: darkolivegreen;
+}
+
+.class-teg-id-atribute div #id-selector button[type="button"] {
+
+  background-color: brown;
+
+}
