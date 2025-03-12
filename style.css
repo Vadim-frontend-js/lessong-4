@@ -48,3 +48,7 @@ a[href="#"] {
 #section.section p {
   background-color: firebrick;
 }
+
+.div1 .div2 .div3 .div4 p {
+  background-color: khaki;
+}
